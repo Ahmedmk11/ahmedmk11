@@ -16,3 +16,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Cairo
+          config_output: github-metrics.svg
