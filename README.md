@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="https://streak-stats.demolab.com/?user=ahmedmk11&theme=tokyonight" alt="Streak Stats" width="100%">
+            <img src="https://github-profile-trophy.vercel.app/?username=ahmedmk11&theme=tokyonight&no-frame=true&margin-w=5&rank=-?" alt="Streak Stats" width="100%">
         </td>
     </tr>
 
