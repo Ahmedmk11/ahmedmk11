@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmk11&repo=breast-cancer-diagnosis&theme=tokyonight&description_lines_count=3&show_owner=true&show_icons=true" alt="Repo 1" width="49%">
+    <a href="https://github.com/ahmedmk11/breast-cancer-diagnosis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmk11&repo=breast-cancer-diagnosis&theme=tokyonight&description_lines_count=3&show_owner=true&show_icons=true" alt="Repo 1" width="49%">
+    </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmk11&layout=donut&theme=tokyonight&hide=html,scss,shaderlab" alt="Top Languages" width="49%">
 </p>
 
